@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{C10900E2-96FD-4461-9C62-C93F41C1D683}|TanksCatalog">
+  <MonoDevelop.Ide.ItemProperties.CatsCatalog PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/DogsController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="39" Column="1" />
+      <File FileName="Extensions.cs" Line="21" Column="2" />
+      <File FileName="appsettings.json" Line="14" Column="2" />
+      <File FileName="Settings/MongoDbSettings.cs" Line="1" Column="22" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Entities/Cats.cs" Line="12" Column="2" />
+      <File FileName="Dtos/CatDto.cs" Line="15" Column="2" />
+      <File FileName="Dtos/CreateCatDto.cs" Line="20" Column="2" />
+      <File FileName="Dtos/UpdateCatDto copy.cs" Line="4" Column="22" />
+      <File FileName="Controllers/DogsController.cs" Line="57" Column="1" />
+      <File FileName="Repositories/CatsCatalog.mongodb" Line="1" Column="1" />
+      <File FileName="Repositories/ICatsRepository.cs" Line="15" Column="37" />
+      <File FileName="Repositories/InMemCatsRepository.cs" Line="45" Column="51" />
+      <File FileName="Repositories/MongoDbCatssRepository.cs" Line="51" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatsCatalog" expanded="True">
+            <Node name="CatsCatalog" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Settings" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

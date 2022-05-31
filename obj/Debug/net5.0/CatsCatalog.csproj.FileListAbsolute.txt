@@ -1,0 +1,7 @@
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.csproj.AssemblyReference.cache
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.AssemblyInfoInputs.cache
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.AssemblyInfo.cs
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.csproj.CoreCompileInputs.cache
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.MvcApplicationPartsAssemblyInfo.cs
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/CatsCatalog.MvcApplicationPartsAssemblyInfo.cache

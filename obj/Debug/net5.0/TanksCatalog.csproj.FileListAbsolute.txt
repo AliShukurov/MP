@@ -1,0 +1,7 @@
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.csproj.AssemblyReference.cache
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.AssemblyInfoInputs.cache
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.AssemblyInfo.cs
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.csproj.CoreCompileInputs.cache
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.MvcApplicationPartsAssemblyInfo.cs
+/Users/daniil/Downloads/TanksCatalog/obj/Debug/net5.0/TanksCatalog.MvcApplicationPartsAssemblyInfo.cache
